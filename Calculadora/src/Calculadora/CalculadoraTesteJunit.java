@@ -43,7 +43,7 @@ class CalculadoraTesteJunit {
 		CalculadoraSoma calc = new CalculadoraSoma();
 		int soma = calc.somar(3,-1);
 		Assert.assertEquals(-7,soma);
-} 
+}
 	@Test
 	public void SubtrairdDoisNumerosPositivos(){
 		CalculadoraSub calc = new CalculadoraSub();

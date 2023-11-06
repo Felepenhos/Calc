@@ -1,7 +1,8 @@
 package Calculadora;
 /**
 * @author luis felipe
-* 
+* @version 1.05
+* @since release 1.02 da aplicacã
 *
 *
 * 
